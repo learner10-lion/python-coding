@@ -1,0 +1,4 @@
+touch <filename> # example 'touch hello-world.py'
+nano <filename> # edit the file content, the press ctrl+X and Y and then ENTER to save the written content
+ls -ltrh # to list dow all the files in present folder or directory, example 'ls -ltrh'
+pwd # to display current folder or directory

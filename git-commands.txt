@@ -1,7 +1,7 @@
-git clone git@github.com:learner10-lion/python-coding.git  #git clone command 
+git clone git@github.com:learner10-lion/python-coding.git  #git clone command (only one time usage)
 
-git config --global user.email "shreejibmanna1vis@gmail.com" #one-time git config command 
-git config --global user.name "learner10-lion" #one-time git config command 
+git config --global user.email "shreejibmanna1vis@gmail.com" #one-time git config command (only one time usage) 
+git config --global user.name "learner10-lion" #one-time git config command (only one time usage)
  
 git add .  #command to add a (any kind) file
 

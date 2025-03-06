@@ -1,0 +1,10 @@
+git clone git@github.com:learner10-lion/python-coding.git  #git clone command 
+
+git config --global user.email "shreejibmanna1vis@gmail.com" #one-time git config command 
+git config --global user.name "learner10-lion" #one-time git config command 
+ 
+git add .  #command to add a (any kind) file
+
+git commit -m "any sample commit message" # git commit command 
+
+git push -u origin main # push the committed change to remote repository main branch
